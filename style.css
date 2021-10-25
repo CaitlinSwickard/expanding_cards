@@ -15,8 +15,11 @@ body {
   margin: 0;
 }
  h1 {
-  color: rgb(218, 57, 57);
   font-size: 50px;
+  background-color: rgb(185, 19, 19);
+  color: white;
+  border-radius: 50px;
+  padding: 12px;
 
  }
 
